@@ -1,0 +1,5 @@
+@interface ZWFirstResponderButton : NSButton {
+
+}
+
+@end

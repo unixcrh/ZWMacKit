@@ -1,0 +1,5 @@
+@interface ZWWindow : NSWindow {
+
+}
+
+@end

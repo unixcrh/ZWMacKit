@@ -1,0 +1,5 @@
+PODS:
+  - ZWCoreKit (1.0.0)
+
+DEPENDENCIES:
+  - ZWCoreKit
