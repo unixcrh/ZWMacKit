@@ -1,5 +1,4 @@
 #import <Cocoa/Cocoa.h>
-#import <ZWCoreKit/ZWGeometry.h>
 
 
 @interface ZWOutlineView : NSOutlineView {

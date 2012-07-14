@@ -1,5 +1,4 @@
 #import <Foundation/Foundation.h>
-#import <ZWCoreKit/ZWGeometry.h>
 #import <AppKit/AppKit.h>
 
 @interface NSView (ZWMacExtensions)

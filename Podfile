@@ -1,5 +1,5 @@
 platform :osx
 
-dependency "ZWCoreKit"
+pod "ZWCoreKit"
 
 xcodeproj "ZWMacKit.xcodeproj"
